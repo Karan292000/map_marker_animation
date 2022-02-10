@@ -1,4 +1,6 @@
-# week9_assignment
+# MAP MARKER ANIMATION
+
+
 Working With The DOM To Add Animation To Maps 
 
 This repository is a sample project to demonstrate how to move marker (any type) on a specifiq path on the google map.
